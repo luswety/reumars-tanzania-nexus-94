@@ -24,7 +24,7 @@ const Header = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <img
-              src="https://images.unsplash.com/photo-1501854140801-50d01698950b?w=40&h=40&fit=crop"
+              src="/lovable-uploads/75bd0a33-4396-4e6a-be33-6cd34c399f25.png"
               alt="Reumars Tanzania Limited"
               className="h-10 w-10 rounded-lg object-cover"
             />
@@ -65,7 +65,7 @@ const Header = () => {
               <div className="flex flex-col space-y-4 mt-8">
                 <div className="flex items-center space-x-2 pb-4 border-b">
                   <img
-                    src="https://images.unsplash.com/photo-1501854140801-50d01698950b?w=32&h=32&fit=crop"
+                    src="/lovable-uploads/75bd0a33-4396-4e6a-be33-6cd34c399f25.png"
                     alt="Reumars"
                     className="h-8 w-8 rounded object-cover"
                   />

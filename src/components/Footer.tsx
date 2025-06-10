@@ -30,7 +30,7 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <img
-                src="https://images.unsplash.com/photo-1501854140801-50d01698950b?w=40&h=40&fit=crop"
+                src="/lovable-uploads/75bd0a33-4396-4e6a-be33-6cd34c399f25.png"
                 alt="Reumars Tanzania Limited"
                 className="h-10 w-10 rounded-lg object-cover"
               />
